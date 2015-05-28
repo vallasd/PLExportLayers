@@ -1,6 +1,6 @@
 # PLExportLayers 
 
-This is two Java Scripts that are made specifically for Adobe Illustrator to help productivity during development.
+This repo contains two Java Scripts that are made specifically for Adobe Illustrator to help productivity during development.
 
 ## Code Example
 
@@ -20,7 +20,7 @@ This is two Java Scripts that are made specifically for Adobe Illustrator to hel
 
 ## Motivation
 
-Increased productivity when developing image sets for projects like mobile devices.  Ive been using this script for years, time to share.
+Increased productivity when developing image sets for projects where the developer wants to work on multiple images in the same space.  Great for developing images for mobile device apps.
 
 ## Installation
 
