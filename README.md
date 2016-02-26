@@ -2,6 +2,8 @@
 
 This repo contains two Java Scripts that are made specifically for Adobe Illustrator to help productivity during development.
 
+Demo Video:  https://youtu.be/ktsjBA-Ayxw
+
 ## Code Example
 
 ### PLExportLayers 
