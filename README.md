@@ -1,10 +1,12 @@
-[![Version](https://img.shields.io/cocoapods/v/SwiftyXMLParser.svg?style=flat)]
 [![License](https://img.shields.io/cocoapods/l/SwiftyXMLParser.svg?style=flat)]
 
 # PLExportLayers 
 
 ```
-This repo contains a javascript made specifically for Adobe Illustrator to help productivity during development.  This script will export each layer as an individual image to the directory you choose.  It also can create all images required for an iOS project (@2x, @3x, and AppIcon) based on the configuration and layer names.
+This repo contains a javascript made specifically for Adobe Illustrator to help productivity during 
+development.  This script will export each layer as an individual image to the directory you choose.  
+It also can create all images required for an iOS project (@2x, @3x, and AppIcon) based on the 
+configuration and layer names.
 
 known issues:
 * does not properly scale text with stroked line borders.
@@ -22,13 +24,15 @@ Demo Video:  https://youtu.be/ktsjBA-Ayxw
 * Export Format - Type of Images Exported
 * Transparency - Background Transparency
 * AntiAliasing - 
-* iOS - Will automatically produce @2x, @3x images.  Any layer with "appicon" or "appIcon" in the name will produce all iOS required AppIcon images for the given layer. 
+* iOS - Will automatically produce @2x, @3x images.  Any layer with "appicon" or "appIcon" in the name 
+will produce all iOS required AppIcon images for the given layer. 
 ```
 
 ## Motivation
 
 ```
-Increased productivity when developing image sets for projects where the developer wants to work on multiple images in the same space.  Great for developing images required for mobile device apps.
+Increased productivity when developing image sets for projects where the developer wants to work 
+on multiple images in the same space.  Great for developing images required for mobile device apps.
 ```
 
 ## Installation
