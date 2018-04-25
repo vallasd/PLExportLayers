@@ -8,10 +8,6 @@ development.  This script will export each layer as an individual image to the d
 It also can create all images required for an iOS project (@2x, @3x, and AppIcon) based on the 
 configuration and layer names.
 
-known issues:
-* does not properly scale text with stroked line borders.
-* anti-aliasing off seems to not work.
-
 Demo Video:  https://youtu.be/ktsjBA-Ayxw
 ```
 
