@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftyXMLParser.svg?style=flat)]
 
-# PLExportLayers 
+# ExportLayers 
 
 ```
 This repo contains a javascript made specifically for Adobe Illustrator to help productivity during 
